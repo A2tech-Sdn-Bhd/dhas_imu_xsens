@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(ros2_xsens_mti_driver)
+project(dhas_imu_xsens)
 
 option(XSENS_MTI_RVIZ "Install rviz and urdf files" ON)
 
